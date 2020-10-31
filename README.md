@@ -1,2 +1,3 @@
 # BrowserJS-Util
-Browser Javascript utilities including router, chip-entry, suggest.
+
+**Truly light weiht** utilities for browser Javascript including router, chip-entry, suggest.
