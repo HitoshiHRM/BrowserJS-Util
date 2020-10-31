@@ -31,7 +31,7 @@ Click the suggested element, or using Arrow Up or Down to select from suggestion
 
 Suggestor put suggesiton list just after the INPUT DOM.
 
-It`s composed of `SELECT` tag and `OPTION` tag.
+Its composed of `SELECT` tag and `OPTION` tag.
 
 Following is a exapmle.
 
