@@ -1,2 +1,2 @@
 # BrowserJS-Util
-Browser Javascript utilities including router, entry, suggest.
+Browser Javascript utilities including router, chip-entry, suggest.
